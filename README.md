@@ -31,6 +31,7 @@ Used Programming skills
   •	Following PEP 8 style guidelines
 
 How to run the code and compatibility 
+
 Clone the project and cd into it in your terminal
 Run python(3 - depending on the PY version you are using) (name of the file).py and follow the instruction on the screen
 
