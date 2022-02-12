@@ -13,20 +13,14 @@ The game has conditions for winning and losing.
 The project was developed through the Udacity Intro to Programming Nanodegree.
 
 Used Programming skills
+
 •	Foundations of Python
-
 •	Modules
-
 •	Functions
-
 •	for and while loops
-
 •	Conditional statements
-
 •	List and string methods
-
 •	Code refactoring
-
 •	Following PEP 8 style guidelines
 
 Clone the project and cd into it in your terminal
