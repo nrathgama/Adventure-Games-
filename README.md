@@ -1,4 +1,4 @@
-# Adventure-Games-
+# Adventure-Games
 This repository is consisting of text based adventure game(s) 
 
 Adventure Game(s)
