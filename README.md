@@ -35,4 +35,4 @@ Used Programming skills
 *Clone the project and cd into it in your terminal
 Run python(3 - depending on the PY version you are using) (name of the file).py and follow the instruction on the screen*
 
-**NOTE: The code is written compatible to Python3**
+      NOTE: The code is written compatible to Python3
